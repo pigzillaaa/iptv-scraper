@@ -30,6 +30,7 @@ jobs:
           curl --max-time 30 -o mlbwebcast.m3u8 "${{ secrets.MLBWEBCAST_URL }}" || true
           curl --max-time 30 -o nhlwebcast.m3u8 "${{ secrets.NHLWEBCAST_URL }}" || true
           curl --max-time 30 -o fstv.m3u8 "${{ secrets.FSTV_URL }}" || true
+          curl --max-time 30 -o wearechecking.m3u8 "${{ secrets.WAC_URL }}" || true
 
 
       - name: Commit and push changes
