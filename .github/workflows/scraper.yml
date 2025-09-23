@@ -35,8 +35,7 @@ jobs:
         run: |
           git config --global user.name "actions-user"
           git config --global user.email "actions@github.com"
-          git add ppv.m3u8 streambtw.m3u8 roxiestreams.m3u8 pixelsport.m3u8
-          git add nbawecast.m3u8 nflwebcast.m3u8 mlbwebcast.m3u8 nhlwebcast.m3u8
+          git add *.m3u8
           git diff --staged --quiet || git commit -m "Update m3u8"
           git push --force
         
