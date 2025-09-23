@@ -21,14 +21,15 @@ jobs:
 
       - name: Get m3u8
         run: |
-          curl -o ppv.m3u8 "${{ secrets.PPV_URL }}"
-          curl -o streambtw.m3u8 "${{ secrets.STREAMBTW_URL }}"
-          curl -o roxiestreams.m3u8 "${{ secrets.ROXIE_URL }}"
-          curl -o pixelsport.m3u8 "${{ secrets.PIXELSPORT_URL }}"
-          curl -o nbawebcast.m3u8 "${{ secrets.NBAWEBCAST_URL }}"
-          curl -o nflwebcast.m3u8 "${{ secrets.NFLWEBCAST_URL }}"
-          curl -o mlbwebcast.m3u8 "${{ secrets.MLBWEBCAST_URL }}"
-          curl -o nhlwebcast.m3u8 "${{ secrets.NHLWEBCAST_URL }}"
+          curl --max-time 30 -o ppv.m3u8 "${{ secrets.PPV_URL }}" || true
+          curl --max-time 30 -o streambtw.m3u8 "${{ secrets.STREAMBTW_URL }}" || true
+          curl --max-time 30 -o roxiestreams.m3u8 "${{ secrets.ROXIE_URL }}" || true
+          curl --max-time 30 -o pixelsport.m3u8 "${{ secrets.PIXELSPORT_URL }}" || true
+          curl --max-time 30 -o nbawebcast.m3u8 "${{ secrets.NBAWEBCAST_URL }}" || true
+          curl --max-time 30 -o nflwebcast.m3u8 "${{ secrets.NFLWEBCAST_URL }}" || true
+          curl --max-time 30 -o mlbwebcast.m3u8 "${{ secrets.MLBWEBCAST_URL }}" || true
+          curl --max-time 30 -o nhlwebcast.m3u8 "${{ secrets.NHLWEBCAST_URL }}" || true
+
 
       - name: Commit and push changes
         run: |
