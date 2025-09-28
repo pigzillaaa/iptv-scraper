@@ -1,14 +1,62 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/nhl-logo.png" group-title="NHL",Flames - Jets  September 27, 2025 (AWAY)
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/nhl-logo.png" group-title="NHL",Blackhawks - Wild  September 28, 2025 (AWAY)
 #EXTVLCOPT:http-origin=https://nhlwebcast.com
 #EXTVLCOPT:http-referrer=https://nhlwebcast.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
-https://live.webcastserver.online/hdstream/embed/60.m3u8
+https://live.webcastserver.online/hdstream/embed/62.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/nhl-logo.png" group-title="NHL",Flames - Jets  September 27, 2025 (HOME)
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/nhl-logo.png" group-title="NHL",Blackhawks - Wild  September 28, 2025 (HOME)
 #EXTVLCOPT:http-origin=https://nhlwebcast.com
 #EXTVLCOPT:http-referrer=https://nhlwebcast.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
-https://live.webcastserver.online/hdstream/embed/359.m3u8
+https://live.webcastserver.online/hdstream/embed/70.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/nhl-logo.png" group-title="NHL",Canucks - Oilers  September 28, 2025 (AWAY)
+#EXTVLCOPT:http-origin=https://nhlwebcast.com
+#EXTVLCOPT:http-referrer=https://nhlwebcast.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+https://live.webcastserver.online/hdstream/embed/346.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/nhl-logo.png" group-title="NHL",Canucks - Oilers  September 28, 2025 (HOME)
+#EXTVLCOPT:http-origin=https://nhlwebcast.com
+#EXTVLCOPT:http-referrer=https://nhlwebcast.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+https://live.webcastserver.online/hdstream/embed/67.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/nhl-logo.png" group-title="NHL",Capitals - Devils  September 28, 2025 (AWAY)
+#EXTVLCOPT:http-origin=https://nhlwebcast.com
+#EXTVLCOPT:http-referrer=https://nhlwebcast.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+https://live.webcastserver.online/hdstream/embed/73.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/nhl-logo.png" group-title="NHL",Capitals - Devils  September 28, 2025 (HOME)
+#EXTVLCOPT:http-origin=https://nhlwebcast.com
+#EXTVLCOPT:http-referrer=https://nhlwebcast.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+https://live.webcastserver.online/hdstream/embed/73.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/nhl-logo.png" group-title="NHL",Devils - Senators  September 28, 2025 (AWAY)
+#EXTVLCOPT:http-origin=https://nhlwebcast.com
+#EXTVLCOPT:http-referrer=https://nhlwebcast.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+https://live.webcastserver.online/hdstream/embed/76.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/nhl-logo.png" group-title="NHL",Devils - Senators  September 28, 2025 (HOME)
+#EXTVLCOPT:http-origin=https://nhlwebcast.com
+#EXTVLCOPT:http-referrer=https://nhlwebcast.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+https://live.webcastserver.online/hdstream/embed/76.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/nhl-logo.png" group-title="NHL",Predators - Hurricanes  September 28, 2025 (AWAY)
+#EXTVLCOPT:http-origin=https://nhlwebcast.com
+#EXTVLCOPT:http-referrer=https://nhlwebcast.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+https://live.webcastserver.online/hdstream/embed/72.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/nhl-logo.png" group-title="NHL",Predators - Hurricanes  September 28, 2025 (HOME)
+#EXTVLCOPT:http-origin=https://nhlwebcast.com
+#EXTVLCOPT:http-referrer=https://nhlwebcast.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+https://live.webcastserver.online/hdstream/embed/433.m3u8
 
