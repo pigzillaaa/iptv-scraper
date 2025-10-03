@@ -1,17 +1,5 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/nba-logo.png" group-title="NBA",New Orleans Pelicans - New Orleans Pelicans (AWAY)
-#EXTVLCOPT:http-origin=https://nbawebcast.app/
-#EXTVLCOPT:http-referrer=https://nbawebcast.app//
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
-https://live.webcastserver.online/hdstream/embed/150.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/nba-logo.png" group-title="NBA",New Orleans Pelicans - New Orleans Pelicans (HOME)
-#EXTVLCOPT:http-origin=https://nbawebcast.app/
-#EXTVLCOPT:http-referrer=https://nbawebcast.app//
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
-https://live.webcastserver.online/hdstream/embed/150.m3u8
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/nba-logo.png" group-title="NBA",Phoenix Suns - Los Angeles Lakers (AWAY)
 #EXTVLCOPT:http-origin=https://nbawebcast.app/
 #EXTVLCOPT:http-referrer=https://nbawebcast.app//
