@@ -78,6 +78,12 @@ https://gg.poocloud.in/bundesliga_augsburg/index.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 11.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.6998.166 Safari/537.36
 https://gg.poocloud.in/seriea_bologna/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://ppv.to/assets/thumb/06ae378b4b8a7b216582af8e4a48ea84-thumbnail.jpg" group-title="FOOTBALL",Bournemouth vs. Fulham
+#EXTVLCOPT:http-origin=https://ppv.to
+#EXTVLCOPT:http-referrer=https://ppv.to/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 11.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.6998.166 Safari/537.36
+https://gg.poocloud.in/epl_bournemouth/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://ppv.to/assets/thumb/7a05a626366606f2c113a8528f3af1ba-thumbnail.jpg" group-title="FOOTBALL",Bremen vs. St. Pauli
 #EXTVLCOPT:http-origin=https://ppv.to
 #EXTVLCOPT:http-referrer=https://ppv.to/
@@ -149,6 +155,36 @@ https://gg.poocloud.in/bundesliga_dortmund/index.m3u8
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 11.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.6998.166 Safari/537.36
 https://gg.poocloud.in/epl_everton/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://ppv.to/assets/thumb/aa66ff992e1d38156e91d35790644fe6-thumbnail.jpg" group-title="MOTORSPORTS",F1: Singapore Grand Prix (FP1)
+#EXTVLCOPT:http-origin=https://ppv.to
+#EXTVLCOPT:http-referrer=https://ppv.to/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 11.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.6998.166 Safari/537.36
+https://gg.poocloud.in/skyf1/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://ppv.to/assets/thumb/aa66ff992e1d38156e91d35790644fe6-thumbnail.jpg" group-title="MOTORSPORTS",F1: Singapore Grand Prix (FP2)
+#EXTVLCOPT:http-origin=https://ppv.to
+#EXTVLCOPT:http-referrer=https://ppv.to/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 11.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.6998.166 Safari/537.36
+https://gg.poocloud.in/skyf1/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://ppv.to/assets/thumb/aa66ff992e1d38156e91d35790644fe6-thumbnail.jpg" group-title="MOTORSPORTS",F1: Singapore Grand Prix (FP3)
+#EXTVLCOPT:http-origin=https://ppv.to
+#EXTVLCOPT:http-referrer=https://ppv.to/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 11.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.6998.166 Safari/537.36
+https://gg.poocloud.in/skyf1/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://ppv.to/assets/thumb/aa66ff992e1d38156e91d35790644fe6-thumbnail.jpg" group-title="MOTORSPORTS",F1: Singapore Grand Prix (Qualifying)
+#EXTVLCOPT:http-origin=https://ppv.to
+#EXTVLCOPT:http-referrer=https://ppv.to/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 11.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.6998.166 Safari/537.36
+https://gg.poocloud.in/skyf1/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://ppv.to/assets/thumb/aa66ff992e1d38156e91d35790644fe6-thumbnail.jpg" group-title="MOTORSPORTS",F1: Singapore Grand Prix (Race)
+#EXTVLCOPT:http-origin=https://ppv.to
+#EXTVLCOPT:http-referrer=https://ppv.to/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 11.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.6998.166 Safari/537.36
+https://gg.poocloud.in/skyf1/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://ppv.to/assets/thumb/6848e008c2e07eedc67a1fe825b4787f-thumbnail.jpg" group-title="FOOTBALL",FC Metz vs. OM
 #EXTVLCOPT:http-origin=https://ppv.to
