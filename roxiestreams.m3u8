@@ -24,11 +24,17 @@ https://saz.blitzen.store/usa.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
 https://saz.blitzen.store/ncaa2.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/fighting-logo.png" group-title="FIGHTING",PFL Champions Series: Nurmagomedov vs. Hughes 2
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/fighting-logo.png" group-title="FIGHTING",PFL Champions Series: Nurmagomedov vs. Hughes 2 (Stream 1)
 #EXTVLCOPT:http-origin=https://roxiestreams.cc
 #EXTVLCOPT:http-referrer=https://roxiestreams.cc/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
 https://saz.blitzen.store/ppv.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/fighting-logo.png" group-title="FIGHTING",PFL Champions Series: Nurmagomedov vs. Hughes 2 (Stream 2)
+#EXTVLCOPT:http-origin=https://roxiestreams.cc
+#EXTVLCOPT:http-referrer=https://roxiestreams.cc/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+https://saz.blitzen.store/pfl.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/nba-logo.png" group-title="NBA",Phoenix Suns vs Los Angeles Lakers
 #EXTVLCOPT:http-origin=https://roxiestreams.cc
