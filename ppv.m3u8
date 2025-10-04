@@ -6,7 +6,7 @@
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 11.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.6998.166 Safari/537.36
 https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1YzlmNWM5ZGQ1ODJmLTcxOTgtNzBkNC1hYzM5LWQyOWM3MjAz/master.m3u8
 
-#EXTINF:-1 tvg-logo="https://thumbs.poocloud.in/familyguy/preview.jpg" group-title="24/7 STREAMS",24/7 Family‌​​​‌​‌‌‌​‌​​​‌​‌​​‌‌​‌​​‌‌​‌​​​ Guy
+#EXTINF:-1 tvg-logo="https://thumbs.poocloud.in/familyguy/preview.jpg" group-title="24/7 STREAMS",24/7 Family​‌​‌​‌​‌‌​‌‌‌‌‌​‌‌‌‌​​​​‌‌​‌‌‌‌​ Guy
 #EXTVLCOPT:http-origin=https://ppv.to
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 11.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.6998.166 Safari/537.36
@@ -101,6 +101,12 @@ https://gg.poocloud.in/ligue1_brest/index.m3u8
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 11.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.6998.166 Safari/537.36
 https://gg.poocloud.in/laliga_rc-celta/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://ppv.to/assets/thumb/e19e06cff480cc222ca20fbc16b972e4-thumbnail.jpg" group-title="FOOTBALL",Chelsea vs. Liverpool
+#EXTVLCOPT:http-origin=https://ppv.to
+#EXTVLCOPT:http-referrer=https://ppv.to/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 11.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.6998.166 Safari/537.36
+https://gg.poocloud.in/epl_chelsea/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://ppv.to/assets/thumb/b9c2769f6bc02b89cd34e407c21f94ad-thumbnail.jpg" group-title="AMERICAN FOOTBALL",Dallas Cowboys vs. New York Jets
 #EXTVLCOPT:http-origin=https://ppv.to
@@ -281,12 +287,6 @@ https://gg.poocloud.in/carolinapanthers/index.m3u8
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 11.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.6998.166 Safari/537.36
 https://gg.poocloud.in/clevelandbrowns/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://ppv.to/assets/thumb/45f3cdcbdda51990b7f450f1175f8f38-thumbnail.jpg" group-title="MOTORSPORTS",Monster Energy FIM Motocross of Nations (Day 1)
-#EXTVLCOPT:http-origin=https://ppv.to
-#EXTVLCOPT:http-referrer=https://ppv.to/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 11.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.6998.166 Safari/537.36
-https://gg.poocloud.in/mxgp/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://ppv.to/assets/thumb/45f3cdcbdda51990b7f450f1175f8f38-thumbnail.jpg" group-title="MOTORSPORTS",Monster Energy FIM Motocross of Nations (Day 2)
 #EXTVLCOPT:http-origin=https://ppv.to
