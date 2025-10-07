@@ -12,23 +12,11 @@ https://saz.blitzen.store/aew.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
 https://saz.blitzen.store/aewalt.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/nba-logo.png" group-title="NBA",Atlanta Hawks vs Houston Rockets
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/nba-logo.png" group-title="NBA",Chicago Bulls vs Cleveland Cavaliers
 #EXTVLCOPT:http-origin=https://roxiestreams.cc
 #EXTVLCOPT:http-referrer=https://roxiestreams.cc/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
-https://saz.blitzen.store/nba4.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/nba-logo.png" group-title="NBA",Denver Nuggets vs Toronto Raptors
-#EXTVLCOPT:http-origin=https://roxiestreams.cc
-#EXTVLCOPT:http-referrer=https://roxiestreams.cc/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
-https://saz.blitzen.store/nba3.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/nba-logo.png" group-title="NBA",Detroit Pistons vs Memphis Grizzlies
-#EXTVLCOPT:http-origin=https://roxiestreams.cc
-#EXTVLCOPT:http-referrer=https://roxiestreams.cc/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
-https://saz.blitzen.store/nba5.m3u8
+https://saz.blitzen.store/nba.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/formula-logo.png" group-title="MOTORSPORTS",Formula 1 - Singapore Grand Prix (Stream 1)
 #EXTVLCOPT:http-origin=https://roxiestreams.cc
@@ -47,6 +35,12 @@ https://saz.blitzen.store/f1alt.m3u8
 #EXTVLCOPT:http-referrer=https://roxiestreams.cc/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
 https://saz.blitzen.store/espn.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/nba-logo.png" group-title="NBA",Indiana Pacers vs Minnesota Timberwolves
+#EXTVLCOPT:http-origin=https://roxiestreams.cc
+#EXTVLCOPT:http-referrer=https://roxiestreams.cc/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+https://saz.blitzen.store/nba4.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/nfl-logo.png" group-title="NFL",Kansas City Chiefs vs Jacksonville Jaguars (Stream 1)
 #EXTVLCOPT:http-origin=https://roxiestreams.cc
@@ -78,12 +72,6 @@ https://saz.blitzen.store/mxgp.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
 https://saz.blitzen.store/mxgp.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/nba-logo.png" group-title="NBA",Milwaukee Bucks vs Miami Heats
-#EXTVLCOPT:http-origin=https://roxiestreams.cc
-#EXTVLCOPT:http-referrer=https://roxiestreams.cc/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
-https://saz.blitzen.store/nba.m3u8
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/motorsport-logo.png" group-title="MOTORSPORTS",MotoGP  - Grand Prix of Indonesia (Stream 1)
 #EXTVLCOPT:http-origin=https://roxiestreams.cc
 #EXTVLCOPT:http-referrer=https://roxiestreams.cc/
@@ -101,12 +89,6 @@ https://saz.blitzen.store/moto.m3u8
 #EXTVLCOPT:http-referrer=https://roxiestreams.cc/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
 https://saz.blitzen.store/nascar.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/nba-logo.png" group-title="NBA",OKC vs Dallas Mavericks
-#EXTVLCOPT:http-origin=https://roxiestreams.cc
-#EXTVLCOPT:http-referrer=https://roxiestreams.cc/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
-https://saz.blitzen.store/nba2.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/wwe-logo.png" group-title="FIGHTING",WWE NXT (Stream 1)
 #EXTVLCOPT:http-origin=https://roxiestreams.cc
