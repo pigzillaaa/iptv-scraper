@@ -1,5 +1,11 @@
 #EXTM3U
 
+#EXTINF:-1,MIL @ CHC
+#EXTVLCOPT:http-origin=https://ihatestreams.xyz
+#EXTVLCOPT:http-referrer=https://ihatestreams.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
+https://cdn.welovestroll.store/event1/index.m3u8
+
 #EXTINF:-1,Mount Panorama - Free Practice 1
 #EXTVLCOPT:http-origin=https://ihatestreams.xyz
 #EXTVLCOPT:http-referrer=https://ihatestreams.xyz/
@@ -11,4 +17,22 @@ https://cdn.welovestroll.store/linear6/index.m3u8
 #EXTVLCOPT:http-referrer=https://ihatestreams.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
 https://cdn.welovestroll.store/linear6/index.m3u8
+
+#EXTINF:-1,PHI @ LAD
+#EXTVLCOPT:http-origin=https://ihatestreams.xyz
+#EXTVLCOPT:http-referrer=https://ihatestreams.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
+https://cdn.welovestroll.store/event1/index.m3u8
+
+#EXTINF:-1,SEA @ DET
+#EXTVLCOPT:http-origin=https://ihatestreams.xyz
+#EXTVLCOPT:http-referrer=https://ihatestreams.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
+https://cdn.welovestroll.store/linear14/index.m3u8
+
+#EXTINF:-1,TOR @ NYY
+#EXTVLCOPT:http-origin=https://ihatestreams.xyz
+#EXTVLCOPT:http-referrer=https://ihatestreams.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
+https://cdn.welovestroll.store/linear14/index.m3u8
 
