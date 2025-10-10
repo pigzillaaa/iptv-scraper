@@ -1,5 +1,8 @@
 #EXTM3U
 
-#EXTINF:-1,Proxy failed. Status: All connection attempts failed
-https://ppv.to
+#EXTINF:-1 tvg-logo="https://ppv.to/assets/thumb/015d4c84af3c860d7b2fc886024c493f-thumbnail.jpg" group-title="AMERICAN FOOTBALL",Washington State Cougars vs. Ole Miss Rebels
+#EXTVLCOPT:http-origin=https://ppv.to
+#EXTVLCOPT:http-referrer=https://ppv.to/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 11.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.6998.166 Safari/537.36
+https://gg.poocloud.in/SEC Network/index.m3u8
 
