@@ -10,7 +10,7 @@ https://gate.pixelpanel.online/hdstream/embed/609.m3u8
 #EXTVLCOPT:http-origin=https://nhlwebcast.com
 #EXTVLCOPT:http-referrer=https://nhlwebcast.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
-https://gate.pixelpanel.online/hdstream/embed/589.m3u8
+https://live.frpanels.top:443/hd100/hd100/91.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/nhl-logo.png" group-title="NHL",Canadiens - Blackhawks  October 11, 2025 (AWAY)
 #EXTVLCOPT:http-origin=https://nhlwebcast.com
@@ -95,18 +95,6 @@ https://gate.pixelpanel.online/hdstream/embed/593.m3u8
 #EXTVLCOPT:http-referrer=https://nhlwebcast.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
 https://gate.pixelpanel.online/hdstream/embed/599.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/nhl-logo.png" group-title="NHL",Kings - Jets  October 11, 2025 (AWAY)
-#EXTVLCOPT:http-origin=https://nhlwebcast.com
-#EXTVLCOPT:http-referrer=https://nhlwebcast.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
-https://gate.pixelpanel.online/hdstream/embed/598.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/nhl-logo.png" group-title="NHL",Kings - Jets  October 11, 2025 (HOME)
-#EXTVLCOPT:http-origin=https://nhlwebcast.com
-#EXTVLCOPT:http-referrer=https://nhlwebcast.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
-https://live.frpanels.top:443/hd100/hd100/94.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/nhl-logo.png" group-title="NHL",Knights - Kraken  October 11, 2025 (AWAY)
 #EXTVLCOPT:http-origin=https://nhlwebcast.com
