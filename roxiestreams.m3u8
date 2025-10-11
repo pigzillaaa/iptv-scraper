@@ -1,12 +1,18 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/nba-logo.png" group-title="NBA",Boston Celtics vs Toronto Raptors
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/nba-logo.png" group-title="NBA",Atlanta Hawks vs Memphis Grizzlies
 #EXTVLCOPT:http-origin=https://roxiestreams.cc
 #EXTVLCOPT:http-referrer=https://roxiestreams.cc/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
-https://saz.blitzen.store/nba.m3u8
+https://saz.blitzen.store/nba2.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/mlb-logo.png" group-title="MLB",Detroit Tigers vs Seattle Mariners
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/nba-logo.png" group-title="NBA",Charlotte Hornets vs Dallas Mavericks
+#EXTVLCOPT:http-origin=https://roxiestreams.cc
+#EXTVLCOPT:http-referrer=https://roxiestreams.cc/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+https://saz.blitzen.store/nba3.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/mlb-logo.png" group-title="MLB",Chicago Cubs vs Milwaukee Brewers
 #EXTVLCOPT:http-origin=https://roxiestreams.cc
 #EXTVLCOPT:http-referrer=https://roxiestreams.cc/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
@@ -60,11 +66,11 @@ https://saz.blitzen.store/moto.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
 https://saz.blitzen.store/nascar.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/nba-logo.png" group-title="NBA",Orlando Magic vs Philadelphia 76ers
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/nba-logo.png" group-title="NBA",OKlahama City Thunder vs Indiana Pacers
 #EXTVLCOPT:http-origin=https://roxiestreams.cc
 #EXTVLCOPT:http-referrer=https://roxiestreams.cc/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
-https://saz.blitzen.store/nba2.m3u8
+https://saz.blitzen.store/nba.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/nfl-logo.png" group-title="NFL",Philadelphia Eagles vs New York Giants (Stream 1)
 #EXTVLCOPT:http-origin=https://roxiestreams.cc
@@ -83,18 +89,6 @@ https://saz.blitzen.store/nflalt.m3u8
 #EXTVLCOPT:http-referrer=https://roxiestreams.cc/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
 https://saz.blitzen.store/nflalty.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/nba-logo.png" group-title="NBA",Sacromento Kings vs Portland Trail Blazers
-#EXTVLCOPT:http-origin=https://roxiestreams.cc
-#EXTVLCOPT:http-referrer=https://roxiestreams.cc/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
-https://saz.blitzen.store/nba5.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/nba-logo.png" group-title="NBA",Utah Jazz vs San Antonio Spurs
-#EXTVLCOPT:http-origin=https://roxiestreams.cc
-#EXTVLCOPT:http-referrer=https://roxiestreams.cc/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
-https://saz.blitzen.store/nba3.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/wwe-logo.png" group-title="FIGHTING",WWE Smackdown (Repeat)
 #EXTVLCOPT:http-origin=https://roxiestreams.cc
