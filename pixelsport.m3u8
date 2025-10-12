@@ -24,17 +24,17 @@ https://locked.pixelpanel.online/hdstream/embed/344.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
 https://locked.pixelpanel.online/hdstream/embed/528.m3u8
 
-#EXTINF:-1 tvg-logo="https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/atl.png" group-title="NBA",Atlanta Hawks - Memphis Grizzlies (AWAY)
+#EXTINF:-1 tvg-logo="https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/bkn.png" group-title="NBA",Brooklyn Nets - Phoenix Suns (AWAY)
 #EXTVLCOPT:http-origin=https://pixelsport.tv
 #EXTVLCOPT:http-referrer=https://pixelsport.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
-https://locked.pixelpanel.online/hdstream/embed/453.m3u8
+https://locked.pixelpanel.online/hdstream/embed/462.m3u8
 
-#EXTINF:-1 tvg-logo="https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/mem.png" group-title="NBA",Atlanta Hawks - Memphis Grizzlies (HOME)
+#EXTINF:-1 tvg-logo="https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/phx.png" group-title="NBA",Brooklyn Nets - Phoenix Suns (HOME)
 #EXTVLCOPT:http-origin=https://pixelsport.tv
 #EXTVLCOPT:http-referrer=https://pixelsport.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
-https://locked.pixelpanel.online/hdstream/embed/452.m3u8
+https://locked.pixelpanel.online/hdstream/embed/470.m3u8
 
 #EXTINF:-1 tvg-logo="https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/buf.png" group-title="NFL",Buffalo Bills - Atlanta Falcons (AWAY)
 #EXTVLCOPT:http-origin=https://pixelsport.tv
@@ -59,18 +59,6 @@ https://locked.pixelpanel.online/hdstream/embed/398.m3u8
 #EXTVLCOPT:http-referrer=https://pixelsport.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
 https://locked.pixelpanel.online/hdstream/embed/486.m3u8
-
-#EXTINF:-1 tvg-logo="https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/cha.png" group-title="NBA",Charlotte Hornets - Dallas Mavericks (AWAY)
-#EXTVLCOPT:http-origin=https://pixelsport.tv
-#EXTVLCOPT:http-referrer=https://pixelsport.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
-https://locked.pixelpanel.online/hdstream/embed/455.m3u8
-
-#EXTINF:-1 tvg-logo="https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/dal.png" group-title="NBA",Charlotte Hornets - Dallas Mavericks (HOME)
-#EXTVLCOPT:http-origin=https://pixelsport.tv
-#EXTVLCOPT:http-referrer=https://pixelsport.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
-https://locked.pixelpanel.online/hdstream/embed/461.m3u8
 
 #EXTINF:-1 tvg-logo="https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/chi.png" group-title="NFL",Chicago Bears - Washington Commanders (AWAY)
 #EXTVLCOPT:http-origin=https://pixelsport.tv
@@ -119,6 +107,18 @@ https://locked.pixelpanel.online/hdstream/embed/342.m3u8
 #EXTVLCOPT:http-referrer=https://pixelsport.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
 https://locked.pixelpanel.online/hdstream/embed/364.m3u8
+
+#EXTINF:-1 tvg-logo="https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/cle.png" group-title="NBA",Cleveland Cavaliers - Boston Celtics (AWAY)
+#EXTVLCOPT:http-origin=https://pixelsport.tv
+#EXTVLCOPT:http-referrer=https://pixelsport.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+https://locked.pixelpanel.online/hdstream/embed/449.m3u8
+
+#EXTINF:-1 tvg-logo="https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/bos.png" group-title="NBA",Cleveland Cavaliers - Boston Celtics (HOME)
+#EXTVLCOPT:http-origin=https://pixelsport.tv
+#EXTVLCOPT:http-referrer=https://pixelsport.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+https://locked.pixelpanel.online/hdstream/embed/450.m3u8
 
 #EXTINF:-1 tvg-logo="https://a.espncdn.com/i/teamlogos/nhl/500/scoreboard/cbj.png" group-title="NHL",Columbus Blue Jackets - Minnesota Wild (AWAY)
 #EXTVLCOPT:http-origin=https://pixelsport.tv
@@ -192,6 +192,18 @@ https://locked.pixelpanel.online/hdstream/embed/53.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
 https://live.webcastserver.online/hdstream/embed/527.m3u8
 
+#EXTINF:-1 tvg-logo="https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/gs.png" group-title="NBA",Golden State Warriors - Los Angeles Lakers (AWAY)
+#EXTVLCOPT:http-origin=https://pixelsport.tv
+#EXTVLCOPT:http-referrer=https://pixelsport.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+https://locked.pixelpanel.online/hdstream/embed/473.m3u8
+
+#EXTINF:-1 tvg-logo="https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/lal.png" group-title="NBA",Golden State Warriors - Los Angeles Lakers (HOME)
+#EXTVLCOPT:http-origin=https://pixelsport.tv
+#EXTVLCOPT:http-referrer=https://pixelsport.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+https://locked.pixelpanel.online/hdstream/embed/459.m3u8
+
 #EXTINF:-1 tvg-logo="https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/lac.png" group-title="NFL",Los Angeles Chargers - Miami Dolphins (AWAY)
 #EXTVLCOPT:http-origin=https://pixelsport.tv
 #EXTVLCOPT:http-referrer=https://pixelsport.tv/
@@ -239,6 +251,30 @@ https://locked.pixelpanel.online/hdstream/embed/443.m3u8
 #EXTVLCOPT:http-referrer=https://pixelsport.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
 https://locked.pixelpanel.online/hdstream/embed/194.m3u8
+
+#EXTINF:-1 tvg-logo="https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/mia.png" group-title="NBA",Miami Heat - Orlando Magic (AWAY)
+#EXTVLCOPT:http-origin=https://pixelsport.tv
+#EXTVLCOPT:http-referrer=https://pixelsport.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+https://locked.pixelpanel.online/hdstream/embed/454.m3u8
+
+#EXTINF:-1 tvg-logo="https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/orl.png" group-title="NBA",Miami Heat - Orlando Magic (HOME)
+#EXTVLCOPT:http-origin=https://pixelsport.tv
+#EXTVLCOPT:http-referrer=https://pixelsport.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+https://locked.pixelpanel.online/hdstream/embed/460.m3u8
+
+#EXTINF:-1 tvg-logo="https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/mil.png" group-title="NBA",Milwaukee Bucks - Chicago Bulls (AWAY)
+#EXTVLCOPT:http-origin=https://pixelsport.tv
+#EXTVLCOPT:http-referrer=https://pixelsport.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+https://locked.pixelpanel.online/hdstream/embed/447.m3u8
+
+#EXTINF:-1 tvg-logo="https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/chi.png" group-title="NBA",Milwaukee Bucks - Chicago Bulls (HOME)
+#EXTVLCOPT:http-origin=https://pixelsport.tv
+#EXTVLCOPT:http-referrer=https://pixelsport.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+https://locked.pixelpanel.online/hdstream/embed/448.m3u8
 
 #EXTINF:-1 tvg-logo="https://a.espncdn.com/i/teamlogos/nhl/500/scoreboard/mtl.png" group-title="NHL",Montreal Canadiens - Chicago Blackhawks (AWAY)
 #EXTVLCOPT:http-origin=https://pixelsport.tv
@@ -311,18 +347,6 @@ https://locked.pixelpanel.online/hdstream/embed/493.m3u8
 #EXTVLCOPT:http-referrer=https://pixelsport.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
 https://locked.pixelpanel.online/hdstream/embed/395.m3u8
-
-#EXTINF:-1 tvg-logo="https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/okc.png" group-title="NBA",Oklahoma City Thunder - Indiana Pacers (AWAY)
-#EXTVLCOPT:http-origin=https://pixelsport.tv
-#EXTVLCOPT:http-referrer=https://pixelsport.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
-https://locked.pixelpanel.online/hdstream/embed/471.m3u8
-
-#EXTINF:-1 tvg-logo="https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/ind.png" group-title="NBA",Oklahoma City Thunder - Indiana Pacers (HOME)
-#EXTVLCOPT:http-origin=https://pixelsport.tv
-#EXTVLCOPT:http-referrer=https://pixelsport.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
-https://locked.pixelpanel.online/hdstream/embed/464.m3u8
 
 #EXTINF:-1 tvg-logo="https://a.espncdn.com/i/teamlogos/nhl/500/scoreboard/ott.png" group-title="NHL",Ottawa Senators - Florida Panthers (AWAY)
 #EXTVLCOPT:http-origin=https://pixelsport.tv
@@ -425,6 +449,18 @@ https://locked.pixelpanel.online/hdstream/embed/572.m3u8
 #EXTVLCOPT:http-referrer=https://pixelsport.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
 https://locked.pixelpanel.online/hdstream/embed/485.m3u8
+
+#EXTINF:-1 tvg-logo="https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/tor.png" group-title="NBA",Toronto Raptors - Washington Wizards (AWAY)
+#EXTVLCOPT:http-origin=https://pixelsport.tv
+#EXTVLCOPT:http-referrer=https://pixelsport.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+https://locked.pixelpanel.online/hdstream/embed/467.m3u8
+
+#EXTINF:-1 tvg-logo="https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/wsh.png" group-title="NBA",Toronto Raptors - Washington Wizards (HOME)
+#EXTVLCOPT:http-origin=https://pixelsport.tv
+#EXTVLCOPT:http-referrer=https://pixelsport.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+https://locked.pixelpanel.online/hdstream/embed/474.m3u8
 
 #EXTINF:-1 tvg-logo="https://a.espncdn.com/i/teamlogos/nhl/500/scoreboard/uta.png" group-title="NHL",Utah Mammoth - Nashville Predators (AWAY)
 #EXTVLCOPT:http-origin=https://pixelsport.tv
