@@ -1,29 +1,5 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/nhl-logo.png" group-title="NHL",Hurricanes - Sharks  October 14, 2025 (AWAY)
-#EXTVLCOPT:http-origin=https://nhlwebcast.com
-#EXTVLCOPT:http-referrer=https://nhlwebcast.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
-https://live.webcastserver.online/newz/newz/92.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/nhl-logo.png" group-title="NHL",Hurricanes - Sharks  October 14, 2025 (HOME)
-#EXTVLCOPT:http-origin=https://nhlwebcast.com
-#EXTVLCOPT:http-referrer=https://nhlwebcast.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
-https://live.webcastserver.online/newz/newz/103.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/nhl-logo.png" group-title="NHL",Knights - Flames  October 14, 2025 (AWAY)
-#EXTVLCOPT:http-origin=https://nhlwebcast.com
-#EXTVLCOPT:http-referrer=https://nhlwebcast.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
-https://live.webcastserver.online/newz/newz/96.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/nhl-logo.png" group-title="NHL",Knights - Flames  October 14, 2025 (HOME)
-#EXTVLCOPT:http-origin=https://nhlwebcast.com
-#EXTVLCOPT:http-referrer=https://nhlwebcast.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
-https://live.webcastserver.online/newz/newz/91.m3u8
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/nhl-logo.png" group-title="NHL",Penguins - Ducks  October 14, 2025 (AWAY)
 #EXTVLCOPT:http-origin=https://nhlwebcast.com
 #EXTVLCOPT:http-referrer=https://nhlwebcast.com/
@@ -35,16 +11,4 @@ https://live.webcastserver.online/newz/newz/99.m3u8
 #EXTVLCOPT:http-referrer=https://nhlwebcast.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
 https://live.webcastserver.online/newz/newz/90.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/nhl-logo.png" group-title="NHL",Wild - Stars  October 14, 2025 (AWAY)
-#EXTVLCOPT:http-origin=https://nhlwebcast.com
-#EXTVLCOPT:http-referrer=https://nhlwebcast.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
-https://live.webcastserver.online/newz/newz/105.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/nhl-logo.png" group-title="NHL",Wild - Stars  October 14, 2025 (HOME)
-#EXTVLCOPT:http-origin=https://nhlwebcast.com
-#EXTVLCOPT:http-referrer=https://nhlwebcast.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
-https://live.webcastserver.online/newz/newz/104.m3u8
 
