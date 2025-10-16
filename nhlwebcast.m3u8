@@ -1,26 +1,5 @@
-#EXTM3U
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/nhl-logo.png" group-title="NHL",Blackhawks - Blues  October 15, 2025 (AWAY)
-#EXTVLCOPT:http-origin=https://nhlwebcast.com
-#EXTVLCOPT:http-referrer=https://nhlwebcast.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
-https://live.webcastserver.online/newz/newz/85.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/nhl-logo.png" group-title="NHL",Blackhawks - Blues  October 15, 2025 (HOME)
-#EXTVLCOPT:http-origin=https://nhlwebcast.com
-#EXTVLCOPT:http-referrer=https://nhlwebcast.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
-https://live.webcastserver.online/newz/newz/86.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/nhl-logo.png" group-title="NHL",Flames - Utah  October 15, 2025 (AWAY)
-#EXTVLCOPT:http-origin=https://nhlwebcast.com
-#EXTVLCOPT:http-referrer=https://nhlwebcast.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
-https://live.webcastserver.online/newz/newz/91.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/nhl-logo.png" group-title="NHL",Flames - Utah  October 15, 2025 (HOME)
-#EXTVLCOPT:http-origin=https://nhlwebcast.com
-#EXTVLCOPT:http-referrer=https://nhlwebcast.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
-https://live.webcastserver.online/newz/newz/89.m3u8
-
+<!doctype html>
+<html lang=en>
+<title>500 Internal Server Error</title>
+<h1>Internal Server Error</h1>
+<p>The server encountered an internal error and was unable to complete your request. Either the server is overloaded or there is an error in the application.</p>
