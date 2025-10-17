@@ -58,12 +58,6 @@ linear25/index.m3u8
 #EXTVLCOPT:http-origin=https://ihatestreams.xyz
 #EXTVLCOPT:http-referrer=https://ihatestreams.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
-event5/index.m3u8
-
-#EXTINF:-1,Steelers @ Bengals
-#EXTVLCOPT:http-origin=https://ihatestreams.xyz
-#EXTVLCOPT:http-referrer=https://ihatestreams.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
 event3/index.m3u8
 
 #EXTINF:-1,Steelers @ Bengals
@@ -71,4 +65,10 @@ event3/index.m3u8
 #EXTVLCOPT:http-referrer=https://ihatestreams.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
 event4/index.m3u8
+
+#EXTINF:-1,Steelers @ Bengals
+#EXTVLCOPT:http-origin=https://ihatestreams.xyz
+#EXTVLCOPT:http-referrer=https://ihatestreams.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
+event5/index.m3u8
 
