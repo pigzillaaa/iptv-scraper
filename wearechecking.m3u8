@@ -46,13 +46,13 @@ event1/index.m3u8
 #EXTVLCOPT:http-origin=https://ihatestreams.xyz
 #EXTVLCOPT:http-referrer=https://ihatestreams.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
-event2/index.m3u8
+linear16/index.m3u8
 
 #EXTINF:-1,COTA - Qualifying
 #EXTVLCOPT:http-origin=https://ihatestreams.xyz
 #EXTVLCOPT:http-referrer=https://ihatestreams.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
-linear16/index.m3u8
+event2/index.m3u8
 
 #EXTINF:-1,COTA - Qualifying
 #EXTVLCOPT:http-origin=https://ihatestreams.xyz
@@ -70,6 +70,12 @@ event1/index.m3u8
 #EXTVLCOPT:http-origin=https://ihatestreams.xyz
 #EXTVLCOPT:http-referrer=https://ihatestreams.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
+event2/index.m3u8
+
+#EXTINF:-1,COTA - Sprint
+#EXTVLCOPT:http-origin=https://ihatestreams.xyz
+#EXTVLCOPT:http-referrer=https://ihatestreams.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
 linear16/index.m3u8
 
 #EXTINF:-1,COTA - Sprint
@@ -77,12 +83,6 @@ linear16/index.m3u8
 #EXTVLCOPT:http-referrer=https://ihatestreams.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
 linear17/index.m3u8
-
-#EXTINF:-1,COTA - Sprint
-#EXTVLCOPT:http-origin=https://ihatestreams.xyz
-#EXTVLCOPT:http-referrer=https://ihatestreams.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
-event2/index.m3u8
 
 #EXTINF:-1,Central European Rally
 #EXTVLCOPT:http-origin=https://ihatestreams.xyz
@@ -113,12 +113,6 @@ linear62/index.m3u8
 #EXTVLCOPT:http-referrer=https://ihatestreams.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
 event10/index.m3u8
-
-#EXTINF:-1,Jerez - Race 1
-#EXTVLCOPT:http-origin=https://ihatestreams.xyz
-#EXTVLCOPT:http-referrer=https://ihatestreams.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
-linear18/index.m3u8
 
 #EXTINF:-1,Köln vs Augsburg
 #EXTVLCOPT:http-origin=https://ihatestreams.xyz
