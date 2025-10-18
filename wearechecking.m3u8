@@ -24,6 +24,18 @@ linear18/index.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
 linear23/index.m3u8
 
+#EXTINF:-1,BSB - Qualifying
+#EXTVLCOPT:http-origin=https://ihatestreams.xyz
+#EXTVLCOPT:http-referrer=https://ihatestreams.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
+linear20/index.m3u8
+
+#EXTINF:-1,BSB - Race 1
+#EXTVLCOPT:http-origin=https://ihatestreams.xyz
+#EXTVLCOPT:http-referrer=https://ihatestreams.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
+linear20/index.m3u8
+
 #EXTINF:-1,Brewers @ Dodgers
 #EXTVLCOPT:http-origin=https://ihatestreams.xyz
 #EXTVLCOPT:http-referrer=https://ihatestreams.xyz/
@@ -35,6 +47,24 @@ event6/index.m3u8
 #EXTVLCOPT:http-referrer=https://ihatestreams.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
 linear1/index.m3u8
+
+#EXTINF:-1,Jerez - Free Practice 3
+#EXTVLCOPT:http-origin=https://ihatestreams.xyz
+#EXTVLCOPT:http-referrer=https://ihatestreams.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
+linear18/index.m3u8
+
+#EXTINF:-1,Jerez - Race 1
+#EXTVLCOPT:http-origin=https://ihatestreams.xyz
+#EXTVLCOPT:http-referrer=https://ihatestreams.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
+linear18/index.m3u8
+
+#EXTINF:-1,Jerez - Superpole
+#EXTVLCOPT:http-origin=https://ihatestreams.xyz
+#EXTVLCOPT:http-referrer=https://ihatestreams.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
+linear18/index.m3u8
 
 #EXTINF:-1,Toronto Blue Jays @ Seattle Mariners
 #EXTVLCOPT:http-origin=https://ihatestreams.xyz
