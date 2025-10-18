@@ -70,7 +70,7 @@ event1/index.m3u8
 #EXTVLCOPT:http-origin=https://ihatestreams.xyz
 #EXTVLCOPT:http-referrer=https://ihatestreams.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
-event2/index.m3u8
+linear17/index.m3u8
 
 #EXTINF:-1,COTA - Sprint
 #EXTVLCOPT:http-origin=https://ihatestreams.xyz
@@ -82,7 +82,7 @@ linear16/index.m3u8
 #EXTVLCOPT:http-origin=https://ihatestreams.xyz
 #EXTVLCOPT:http-referrer=https://ihatestreams.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
-linear17/index.m3u8
+event2/index.m3u8
 
 #EXTINF:-1,Central European Rally
 #EXTVLCOPT:http-origin=https://ihatestreams.xyz
@@ -100,13 +100,13 @@ event3/index.m3u8
 #EXTVLCOPT:http-origin=https://ihatestreams.xyz
 #EXTVLCOPT:http-referrer=https://ihatestreams.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
-linear11/index.m3u8
+linear62/index.m3u8
 
 #EXTINF:-1,Fulham vs Arsenal	
 #EXTVLCOPT:http-origin=https://ihatestreams.xyz
 #EXTVLCOPT:http-referrer=https://ihatestreams.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
-linear62/index.m3u8
+linear11/index.m3u8
 
 #EXTINF:-1,Heidenheim vs Werder Bremen
 #EXTVLCOPT:http-origin=https://ihatestreams.xyz
@@ -137,12 +137,6 @@ event8/index.m3u8
 #EXTVLCOPT:http-referrer=https://ihatestreams.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
 event5/index.m3u8
-
-#EXTINF:-1,Nottingham Forest vs Chelsea	
-#EXTVLCOPT:http-origin=https://ihatestreams.xyz
-#EXTVLCOPT:http-referrer=https://ihatestreams.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
-linear3/index.m3u8
 
 #EXTINF:-1,Pisa vs Hellas Verona
 #EXTVLCOPT:http-origin=https://ihatestreams.xyz
